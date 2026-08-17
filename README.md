@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, sou o Ítalo Silvério!
+#  Olá, sou o Ítalo Silvério!
 
 🚀 **Desenvolvedor Backend / Java** em constante evolução, focado em construir APIs REST eficientes, arquitetura de software e soluções para o mercado financeiro.
 
